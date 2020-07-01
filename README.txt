@@ -1,3 +1,4 @@
+2nd stash test
 This directory contains example configuration files.
 
 The examples are generally focused on a particular usage case (eg, support for
